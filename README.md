@@ -5,4 +5,5 @@
 - 👯 🤔 💬 📫 😄 ⚡
 -->
 
-[blog](https://yaxelay.blogspot.com)
+[Blog](https://yaxelay.blogspot.com)
+[GitHub's page](https://lexayca.github.io)

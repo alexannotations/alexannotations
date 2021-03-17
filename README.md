@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning about software development.
 - 👯 🤔 💬 📫 😄 ⚡
 -->
+
+[blog](https://yaxelay.blogspot.com)

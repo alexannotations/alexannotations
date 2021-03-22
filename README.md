@@ -7,4 +7,4 @@
 
 -[Blog](https://yaxelay.blogspot.com)
 
--[GitHub's page](https://lexannotations.github.io)
+-[GitHub's page](https://alexannotations.github.io)

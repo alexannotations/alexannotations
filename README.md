@@ -5,6 +5,6 @@
 - 👯 🤔 💬 📫 😄 ⚡
 -->
 
--[Blog](https://blogspot.alexannotations.com)
+-[Blog](https://yaxelay.blogspot.com)
 
 -[GitHub's page](https://alexannotations.github.io)
